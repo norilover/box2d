@@ -1,4 +1,7 @@
 # Overview
+
+想按顺序学习 Box2D 源码，可以从[中文学习指南](learning_guide_zh.md)开始。
+
 Box2D is a 2D rigid body simulation library for games. Programmers can
 use it in their games to make objects move in realistic ways and make
 the game world more interactive. From the game engine's point of view,

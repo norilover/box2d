@@ -166,6 +166,7 @@ Box2D uses SSE2 and Neon (AArch64) SIMD math to improve performance. This can be
 
 ## Documentation
 
+- [中文学习路线与模块导读](docs/learning_guide_zh.md)
 - [Manual](https://box2d.org/documentation/)
 - [Migration Guide](https://github.com/erincatto/box2d/blob/main/docs/migration.md)
 

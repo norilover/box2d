@@ -44,6 +44,20 @@ set(DOXYGEN_WARN_IF_INCOMPLETE_DOC NO)
 doxygen_add_docs(doc
                 "${CMAKE_SOURCE_DIR}/include/box2d"
                 "overview.md"
+                "learning_guide_zh.md"
+                "learning/01_start.md"
+                "learning/02_objects.md"
+                "learning/03_step.md"
+                "learning/04_geometry.md"
+                "learning/05_collision.md"
+                "learning/06_solver.md"
+                "learning/07_joints.md"
+                "learning/08_events_queries.md"
+                "learning/09_parallel.md"
+                "learning/10_foundation.md"
+                "learning/11_advanced.md"
+                "learning/12_engineering.md"
+                "learning/13_reading.md"
                 "hello.md"
                 "samples.md"
                 "foundation.md"
@@ -59,4 +73,3 @@ doxygen_add_docs(doc
                 "release_notes_v310.md"
                 ALL
                 COMMENT "Generate HTML documentation")
-                
